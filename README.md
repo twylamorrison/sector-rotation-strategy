@@ -1,6 +1,6 @@
 # Sector Rotation Strategy (2015–2024)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/your-repo-name/blob/main/sector_rotation_strategy.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/twylamorrison/sector-rotation-strategy/blob/main/sector_rotation_strategy.ipynb)
 
 This project implements a sector rotation strategy using 6-month momentum to allocate capital among U.S. sector ETFs.
 
