@@ -13,7 +13,16 @@ This project implements a sector rotation strategy using 6-month momentum to all
 - Python
 - Pandas, NumPy, yFinance, Matplotlib
 
-## 🚀 How to Run
+🚀 How to Run
+
 1. Install requirements:
-   ```bash
    pip install -r requirements.txt
+
+2. Open the notebook in Google Colab:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/twylamorrison/sector-rotation-strategy/blob/main/sector_rotation_strategy.ipynb)
+
+
+
+
+   
